@@ -1,0 +1,49 @@
+
+============================================================
+EULA
+Bow-like Pixel Art Weapons
+02/20/2023
+============================================================
+READ THIS CAREFULLY BEFORE USING Bow-like Pixel Art Weapons.
+I. Introduction
+Thank you for purchasing Bow-like Pixel Art Weapons. The contents of this product were created by XANDERARTCRAFT and include assets that can be used for game development.
+------------------------------------------------------------
+II. (a) How to use this product
+After the product "Bow-like Pixel Art Weapons" is completely downloaded to your computer, unzip it and
+place the folders in a desired location.
+------------------------------------------------------------
+IV. Bow-like Pixel Art Weapons END USER LICENSE AGREEMENT
+IMPORTANT, READ CAREFULLY.
+PLEASE READ THIS END USER LICENSE AGREEMENT (THE "AGREEMENT") CAREFULLY BEFORE
+USING THIS PRODUCT. IF YOU (THE "USER") DO NOT AGREE TO THE TERMS, CONDITIONS
+AND LIMITATIONS OF THIS AGREEMENT, PROMPTLY DELETE THE DIGITAL CONTENT FROM YOUR
+COMPUTER.
+1. Copyright, trademark and other intellectual property rights of Bow-like Pixel Art Weapons (the "Product") are
+property of XANDERARTCRAFT (the "Creator") and third party allowed by the Creator. 
+2. The resources included in the Bow-like Pixel Art Weapons (the "Product") may be used with any game development or game engine. 
+User can create, distribute, or sell their original game by using the product only if they meet all the following conditions:
+2.1 You must be a legitimate user of my products. Your product must be registered to you. Registration is automatic
+at product purchase. In some cases, you may be asked to
+provide a proof of purchase – such as order number, e-mail, address or receipt. Please keep this information handy.
+2.2 You shall use the Product for game-creation and project-specific advertising media only (screenshots, videos).
+2.3 Your game must include additional documentation that clearly indicates the use of the Product and the
+following copy:
+[Copyright] (C)XANDERARTCRAFT.
+2.4 Solely used for the creation of your game, you can edit, process, and modify the materials contained in the
+product. You will not share these edits with others.
+2.5 Do not sell, distribute, lease, or transfer the product itself (even if the materials were edited, processed, or
+modified by the User), as a whole or any of its parts.
+3. The creator will bear no responsibility for any damages to the User's computer caused by misuse of the Product.
+4. By using the Product, the User accepts the full terms and takes sole responsibility for use of the Product.
+5. The creator will bear no responsibility for any issues and disputes between third parties, regardless of the content,
+that occur as a result of the creation, distribution, and release of the User's game by using the Product.
+------------------------------------------------------------
+Product Creator:
+Alexander Tilson
+"XANDERARTCRAFT"
+------------------------------------------------------------
+V. Contact Information
+Customer Support:
+xanderartcraft@gmail.com
+*NOTE: I cannot answer any inquiries that are not related to the product and/or how to use the product.
+------------------------------------------------------------
