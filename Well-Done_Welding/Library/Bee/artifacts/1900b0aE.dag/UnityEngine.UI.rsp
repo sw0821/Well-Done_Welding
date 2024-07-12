@@ -118,6 +118,7 @@
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:DOTWEEN
 -define:PACKAGE_PHYSICS
 -define:PACKAGE_PHYSICS2D
 -define:PACKAGE_TILEMAP
@@ -125,6 +126,14 @@
 -define:PACKAGE_UITOOLKIT
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Box/Plugins/Borodar/RainbowFolders/Editor/Assemblies/RainbowFolders.dll"
+-r:"Assets/Box/Plugins/Borodar/RainbowHierarchy/Assemblies/RainbowHierarchy.dll"
+-r:"Assets/Box/Plugins/Demigiant/DemiLib/Core/DemiLib.dll"
+-r:"Assets/Box/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll"
+-r:"Assets/Box/Plugins/Demigiant/DOTween/DOTween.dll"
+-r:"Assets/Box/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll"
+-r:"Assets/Box/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll"
+-r:"Assets/Box/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"

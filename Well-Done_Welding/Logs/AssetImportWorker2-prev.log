@@ -1,0 +1,971 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.34f1 (4886f5360533) revision 4753141'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ko' Physical Memory: 15943 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.34f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/0613s/Documents/GitHub/Well-Done_Welding/Well-Done_Welding
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+58018
+Successfully changed project path to: C:/Users/0613s/Documents/GitHub/Well-Done_Welding/Well-Done_Welding
+C:/Users/0613s/Documents/GitHub/Well-Done_Welding/Well-Done_Welding
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18208] Host "[IP] 192.168.27.86 [Port] 0 [Flags] 2 [Guid] 532089633 [EditorId] 532089633 [Version] 1048832 [Id] WindowsEditor(7,Instead-NoYhea) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [18208] Host "[IP] 192.168.27.86 [Port] 0 [Flags] 2 [Guid] 532089633 [EditorId] 532089633 [Version] 1048832 [Id] WindowsEditor(7,Instead-NoYhea) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 18.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.34f1 (4886f5360533)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/0613s/Documents/GitHub/Well-Done_Welding/Well-Done_Welding/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0xa7a0)
+    Vendor:   Intel
+    VRAM:     7971 MB
+    Driver:   31.0.101.4314
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.022396 seconds.
+- Loaded All Assemblies, in  0.752 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/iOSSupport\x64\UnityEditor.iOS.Native.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.560 seconds
+Domain Reload Profiling: 1308ms
+	BeginReloadAssembly (204ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (132ms)
+	LoadAllAssembliesAndSetupDomain (346ms)
+		LoadAssemblies (217ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (326ms)
+			TypeCache.Refresh (324ms)
+				TypeCache.ScanAssembly (296ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (560ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (489ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (161ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (216ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.665 seconds
+Refreshing native plugins compatible for Editor in 7.45 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/PlaybackEngines/iOSSupport\x64\UnityEditor.iOS.Native.dll
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.891 seconds
+Domain Reload Profiling: 2551ms
+	BeginReloadAssembly (316ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (59ms)
+	LoadAllAssembliesAndSetupDomain (1226ms)
+		LoadAssemblies (1061ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (361ms)
+			TypeCache.Refresh (309ms)
+				TypeCache.ScanAssembly (270ms)
+			ScanForSourceGeneratedMonoScriptInfo (40ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (892ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (670ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (57ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (375ms)
+			ProcessInitializeOnLoadMethodAttributes (130ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.23 seconds
+Refreshing native plugins compatible for Editor in 7.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5700 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 109 unused Assets / (0.9 MB). Loaded Objects now: 6169.
+Memory consumption went from 224.4 MB to 223.5 MB.
+Total: 6.147300 ms (FindLiveObjects: 0.522500 ms CreateObjectMapping: 0.300800 ms MarkObjects: 4.702900 ms  DeleteObjects: 0.619400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/DOTweenModuleUtils.cs: 36be6b4788781ca3928d4a96d1c8561e -> 38034ef06fb9b5354f8031bb85ea45ff
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/DOTweenPreviewManager.cs: 0b6076dede52d9d1516993c46328330a -> 6704a79409e29b4269b1101c34c01cae
+  custom:scripting/monoscript/fileName/DOTweenAnimation.cs: 0a0443e068f8fbca2ecb3f62f6ab694d -> 4a5a560491b0dd6a8d490a6dbba57b66
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/DOTweenAnimationInspector.cs: 3784402d8f7481ef4e307751098752e1 -> e27a09f17535690c994d7a0dd75cccb7
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/DOTweenModuleUnityVersion.cs: 9debc936fce9b3225d538cb195cea50f -> 9ffd9acf63f9ee240a8629c063d5ab55
+  custom:scripting/monoscript/fileName/DOTweenModuleUI.cs: 591413407d3c20c4625b7c2c88b8516f -> 654d9cd56dfcd95536bd076e934e53a9
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/DOTweenModuleAudio.cs: 76a16f0d35b21f7222a287de6405d912 -> f44ff7195fa3a78ebfe99f449d7e78e1
+  custom:scripting/monoscript/fileName/DOTweenModulePhysics2D.cs: ef684ce851f19b585cf61f027e826031 -> 173b1ffc50b5696b426bbe7350c14fc4
+  custom:scripting/monoscript/fileName/DOTweenProShortcuts.cs: 8fc20920f58d6c82def6deb00d8df6c5 -> 90c7810f0d7504d6faad12dc67a3f8a8
+  custom:scripting/monoscript/fileName/DOTweenModuleSprite.cs: 6adba58d81476cf2bc8dae3570d0af88 -> 4b5018ebeb8cf37efb36ac1d94ed5a4d
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/DOTweenModulePhysics.cs: 1b4095963be44214d1b5089ac2bf28d6 -> aff02123f5421112b27a1e25686d3abc
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 159103.764156 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard
+  artifactKey: Guid(240dfa3c38d0a65498dd7a1a9b6e4bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard using Guid(240dfa3c38d0a65498dd7a1a9b6e4bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a164db5e08d575ac3bfbc1f2162ea563') in 0.005214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.024161 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/controller_minimal.png
+  artifactKey: Guid(492e360b6c7e0d5478f26c494a90abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/controller_minimal.png using Guid(492e360b6c7e0d5478f26c494a90abed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1b162f03177999e0a466d093541a2a2a') in 0.114412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/kb_light_symbols.png
+  artifactKey: Guid(9b2d88c82d0c87b41912fb447e78f28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/kb_light_symbols.png using Guid(9b2d88c82d0c87b41912fb447e78f28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c6a06c8db0c1c4a808c9731822db3736') in 0.019596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.453236 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Palette
+  artifactKey: Guid(c96186a542291464ea166ecb377b0bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Palette using Guid(c96186a542291464ea166ecb377b0bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0deb815ec88dafd27f8ab82019942787') in 0.001409 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.025249 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Palette/rosyandblue.png
+  artifactKey: Guid(043ed677147ce9947a9b0ec2d13e9d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Palette/rosyandblue.png using Guid(043ed677147ce9947a9b0ec2d13e9d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '989bb063e9a1b9551040119d01e2e15b') in 0.018781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 18.306107 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Thanks.txt
+  artifactKey: Guid(0f0eb179763a89f4987a450301536ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Thanks.txt using Guid(0f0eb179763a89f4987a450301536ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7c1d604c1b5308f491d769665df18300') in 0.001760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.085907 seconds.
+  path: Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Palette/Palette.txt
+  artifactKey: Guid(7883627e7852e4f4db1d98869f178609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Controllers_and_Keyboard/Controllers and Keyboard/Palette/Palette.txt using Guid(7883627e7852e4f4db1d98869f178609) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'facb274373614f948733b0668df3caff') in 0.002014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 8.314208 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1
+  artifactKey: Guid(a20ab4a2b35d78c4dba28b2cffe504ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1 using Guid(a20ab4a2b35d78c4dba28b2cffe504ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '928ecbe0f8199e7e9fee0bb6bf28e82d') in 0.003221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.128825 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/16x16_icons_cooking_v1_0.psd
+  artifactKey: Guid(70a4c97851b4d7a42b7cdd254864e1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/16x16_icons_cooking_v1_0.psd using Guid(70a4c97851b4d7a42b7cdd254864e1a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4684687a78bd21697c2dd26964107ac0') in 0.028189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/iconset_16x16_05_standalone_outline.png
+  artifactKey: Guid(64941f496169c1a4fa317fdac03606d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/iconset_16x16_05_standalone_outline.png using Guid(64941f496169c1a4fa317fdac03606d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bb03ca50dc72baec6840fd97698adb52') in 0.036557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/iconset_16x16_06_castshadows_outline.png
+  artifactKey: Guid(302b7a8d1c137d2409e6af444fa0850d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/iconset_16x16_06_castshadows_outline.png using Guid(302b7a8d1c137d2409e6af444fa0850d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a0acebb8ae6bedb6ce65d4a374f8d227') in 0.052230 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.705333 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/black
+  artifactKey: Guid(f56dc5ff132de3d439469fab5dbdbd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/black using Guid(f56dc5ff132de3d439469fab5dbdbd52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a7ee817a97c2eeed0bfa949a78a9969e') in 0.001922 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.032736 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/black/iconset_16x16_00-2_basic.png
+  artifactKey: Guid(c8d26bfdf6a8c7f4e94bf5b442600c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/black/iconset_16x16_00-2_basic.png using Guid(c8d26bfdf6a8c7f4e94bf5b442600c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8331a8ce78f131c5f881e5a0a8cf05be') in 0.054323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/black/iconset_16x16_04-2_castshadows_selected.png
+  artifactKey: Guid(6a2f351c4fb67284b867f5bfc94cf2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/black/iconset_16x16_04-2_castshadows_selected.png using Guid(6a2f351c4fb67284b867f5bfc94cf2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7bf27a40b41b1ef1d241564501c62671') in 0.044914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.150955 seconds.
+  path: Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/Readme.txt
+  artifactKey: Guid(3998fbadbc731084db8925b4613ea2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Foods/16x16_Iconset_Food_Cooking_v1_1/Readme.txt using Guid(3998fbadbc731084db8925b4613ea2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f2266b655a128ade1b5ae0fb4ae7a888') in 0.002217 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.696778 seconds.
+  path: Assets/Sprites/Graphics/furniture_new/furniture_new.ase
+  artifactKey: Guid(e60f6c7c9c954114ab27bcae064f395f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/furniture_new/furniture_new.ase using Guid(e60f6c7c9c954114ab27bcae064f395f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '65b6c017a3133fc0d4db7e98babb77ea') in 0.377838 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 7.828061 seconds.
+  path: Assets/Sprites/Graphics/Graphics_Made
+  artifactKey: Guid(2c9efe47de182eb409abd5b87edffc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Graphics_Made using Guid(2c9efe47de182eb409abd5b87edffc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8141499429b61628ad5d2c66e01d11b0') in 0.002543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.053656 seconds.
+  path: Assets/Sprites/Graphics/Graphics_Made/Ability_Box.png
+  artifactKey: Guid(228c462f0cb62ad47b97ec1a5687959a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Graphics_Made/Ability_Box.png using Guid(228c462f0cb62ad47b97ec1a5687959a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3668faa50bd94c9079137fa0f5402735') in 0.054924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Graphics/Graphics_Made/Weaphon+Dash_Box.png
+  artifactKey: Guid(2a6a7bb0090c1a941a8b77e641ec650e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/Graphics_Made/Weaphon+Dash_Box.png using Guid(2a6a7bb0090c1a941a8b77e641ec650e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '20161e0b626a360b22a0b45b6019d50f') in 0.044292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.864162 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3
+  artifactKey: Guid(2c881c568b0671745bf723f496a46b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3 using Guid(2c881c568b0671745bf723f496a46b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '4cb2374319501e57ed8091cd8536b27d') in 0.001309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.042216 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Fon-B-10x10.png
+  artifactKey: Guid(b20981c92a25ddc44b132c3e4535c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Fon-B-10x10.png using Guid(b20981c92a25ddc44b132c3e4535c671) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ba5f6cb4f48d728670bc62ac28d3f8e2') in 0.014538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/UI pixelart Assets 4-.png
+  artifactKey: Guid(61cdca698c7975745829ac4d2d2c16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/UI pixelart Assets 4-.png using Guid(61cdca698c7975745829ac4d2d2c16fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3948fa68a552ea647b629ea165bb5ecf') in 0.035454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/UI pixelart Assets 4.png
+  artifactKey: Guid(8570cf678fccbcf4398b49efc39b5860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/UI pixelart Assets 4.png using Guid(8570cf678fccbcf4398b49efc39b5860) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bee17a509a00d7f91fcfbace1a4f4764') in 0.045451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.684423 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Read Me.txt
+  artifactKey: Guid(65b741e9d49efbf409259f6b1dd1fa67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Read Me.txt using Guid(65b741e9d49efbf409259f6b1dd1fa67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7451000f93040e1d2dba961aa9fe4b50') in 0.003008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.862381 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/License.txt
+  artifactKey: Guid(37c4cc300a5bcfa42b5d43871992769f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/License.txt using Guid(37c4cc300a5bcfa42b5d43871992769f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6efc0f9bc269394b1d5b80d8935baae7') in 0.001514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.269956 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu
+  artifactKey: Guid(ae49724535da31145b6c8f71de3d58f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu using Guid(ae49724535da31145b6c8f71de3d58f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5407b7b1dcd04d2dfa3f600d692d9229') in 0.001661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.145314 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A
+  artifactKey: Guid(4e8863e55b782d94fa8fd1207d037614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A using Guid(4e8863e55b782d94fa8fd1207d037614) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '21818981df16a4b865b1d5841317a95c') in 0.000993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.018976 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A/Menu-About.png
+  artifactKey: Guid(ba034487d0705ef44b3338e9ec865d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A/Menu-About.png using Guid(ba034487d0705ef44b3338e9ec865d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8dddc70c0a9b900f23b99eea1f1d71d8') in 0.029858 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A/Menu-Hard.png
+  artifactKey: Guid(cf80bfab3fc5e4a43b5f809b6cbaa797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A/Menu-Hard.png using Guid(cf80bfab3fc5e4a43b5f809b6cbaa797) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b5edd099351db098178891e8a46fb516') in 0.027024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A/Menu-Settings.png
+  artifactKey: Guid(e743ba49753c3b74a9d6db9f055183d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/UI/UI pixelart Assets 4 -1.3/Menu/A/Menu-Settings.png using Guid(e743ba49753c3b74a9d6db9f055183d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '720cd64b10e4b8ae2485f78aa948ca0f') in 0.036548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 14.294901 seconds.
+  path: Assets/Sprites/Graphics/furniture_new
+  artifactKey: Guid(41fb19f4c9a752a4dbe87c5348bb6559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/furniture_new using Guid(41fb19f4c9a752a4dbe87c5348bb6559) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2a2e181341c4659f3fe9cdc7e0326112') in 0.001718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.696960 seconds.
+  path: Assets/Sprites/Graphics/VFX/Bullets_and_VFX
+  artifactKey: Guid(c399b504132bafd40b2322282882ab0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/Bullets_and_VFX using Guid(c399b504132bafd40b2322282882ab0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '575a14125f5f0d5054a16a8bc6e31e6f') in 0.001398 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.060032 seconds.
+  path: Assets/Sprites/Graphics/VFX/Bullets_and_VFX/All Hits.gif
+  artifactKey: Guid(d8814a8eead7d1b49a473204e828864e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/Bullets_and_VFX/All Hits.gif using Guid(d8814a8eead7d1b49a473204e828864e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8239a3d30f6b11ffcd49d6542db8a86b') in 0.063915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprites/Graphics/VFX/Bullets_and_VFX/All Projectiles .gif
+  artifactKey: Guid(442030b5193d9534c8e488a33500cca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/Bullets_and_VFX/All Projectiles .gif using Guid(442030b5193d9534c8e488a33500cca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b088dd70f1d6de13acb49257c4d6ee80') in 0.036809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.922599 seconds.
+  path: Assets/Sprites/Graphics/VFX/Bullets_and_VFX/Bullets 01
+  artifactKey: Guid(710672f80d691cf4194ba105b84b353e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/Bullets_and_VFX/Bullets 01 using Guid(710672f80d691cf4194ba105b84b353e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '82f2cc47ef12c13ff9fef2060379b686') in 0.001799 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.034251 seconds.
+  path: Assets/Sprites/Graphics/VFX/Bullets_and_VFX/Bullets 01/Bullet 01.gif
+  artifactKey: Guid(d53d94945dfd36e49a0efc8a12738606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/Bullets_and_VFX/Bullets 01/Bullet 01.gif using Guid(d53d94945dfd36e49a0efc8a12738606) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f91fcd3f91e3d957e9743e3487a10af3') in 0.017302 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.105499 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX Combos
+  artifactKey: Guid(8dc03a59eb987d94c91d3f2ef7e1139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX Combos using Guid(8dc03a59eb987d94c91d3f2ef7e1139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8ab24993ef4e468227dfe56d475f03ef') in 0.001942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.019325 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX Combo1.gif
+  artifactKey: Guid(9f463c84395ae604689f0a6eea4191dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX Combo1.gif using Guid(9f463c84395ae604689f0a6eea4191dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '445384dd9200d5cf7423851f6a0df9be') in 0.051355 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX Combo3 gif.gif
+  artifactKey: Guid(ffe2fef54685dd04b9afdd5dcdb90319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX Combo3 gif.gif using Guid(ffe2fef54685dd04b9afdd5dcdb90319) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '33d7a7735f0bd912cf677cef025f67ae') in 0.021716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX SimpleSmall Combo1 sheet.png
+  artifactKey: Guid(33800803b934da043b228424357fdcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX SimpleSmall Combo1 sheet.png using Guid(33800803b934da043b228424357fdcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f45366cbbfc6223469e3638371cbeedd') in 0.027280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX SimpleSmall Combo3 gif.gif
+  artifactKey: Guid(014a1733d02a69443a68e110e69ef469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX SimpleSmall Combo3 gif.gif using Guid(014a1733d02a69443a68e110e69ef469) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '85dc061ec9789f032fbe5d9c6dcddef9') in 0.025479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX SimpleCombo1 gif.gif
+  artifactKey: Guid(159ea69de35f0e044bb71b6b1138b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX Combos/SlashFX SimpleCombo1 gif.gif using Guid(159ea69de35f0e044bb71b6b1138b07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '56c6f976d745828b71848631e0016883') in 0.014557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 13.514528 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/2. GameEndeavor
+  artifactKey: Guid(ccafb9d05152304438b1bbf7789fee36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/2. GameEndeavor using Guid(ccafb9d05152304438b1bbf7789fee36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'fcf4fc176e8997c482eaef4f0978fa6a') in 0.001375 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.740747 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor
+  artifactKey: Guid(ccafb9d05152304438b1bbf7789fee36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor using Guid(ccafb9d05152304438b1bbf7789fee36) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '596da4367bc4daa3a157f5a779ae8981') in 0.001527 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.187540 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/3. Vernal Edge
+  artifactKey: Guid(87c19d471365dc24b8f87f24bee46890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/3. Vernal Edge using Guid(87c19d471365dc24b8f87f24bee46890) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2a7758e6f93b3326655e37144fe0f319') in 0.001795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.651441 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge
+  artifactKey: Guid(87c19d471365dc24b8f87f24bee46890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge using Guid(87c19d471365dc24b8f87f24bee46890) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9856c1dc664ed2044942c9d60231c636') in 0.001440 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.625731 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/5. Anokolisa
+  artifactKey: Guid(2cbe91d13519a254c95fae3d401bcc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/5. Anokolisa using Guid(2cbe91d13519a254c95fae3d401bcc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd505d7ab9d502ea3f32d2814dcaa4769') in 0.001497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.775502 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa
+  artifactKey: Guid(2cbe91d13519a254c95fae3d401bcc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa using Guid(2cbe91d13519a254c95fae3d401bcc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c2d9f88c5a173f4f06ab958c71769430') in 0.001716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.365460 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa/SlashFX 5A v1_1.png
+  artifactKey: Guid(2770cfa77f8327f4aabdbaa0c437faa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa/SlashFX 5A v1_1.png using Guid(2770cfa77f8327f4aabdbaa0c437faa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'df5f2c739a843cd7ff469e5ac47583cd') in 0.022746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa/SlashFX 5A v3_4.png
+  artifactKey: Guid(727b5cb3a488ca64ba70a8027fb33125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa/SlashFX 5A v3_4.png using Guid(727b5cb3a488ca64ba70a8027fb33125) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '14b0a3bb65bd083dbdef9547fd2accd5') in 0.020029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa/SlashFX 5A v3_1.png
+  artifactKey: Guid(f763e8014c66bb34b8b93a046e221935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Anokolisa/SlashFX 5A v3_1.png using Guid(f763e8014c66bb34b8b93a046e221935) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'aa0ed20ac44a7ccac75709c44e8c6b4f') in 0.026764 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 25.026832 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet All 2A_1.png
+  artifactKey: Guid(2cb68595fae454447801fe0e982c7b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet All 2A_1.png using Guid(2cb68595fae454447801fe0e982c7b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '38b79f2d02f3f8732cd254e091b21d79') in 0.022826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet FX 2A_4.png
+  artifactKey: Guid(7236971533b17464cacb9ae68b59fe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet FX 2A_4.png using Guid(7236971533b17464cacb9ae68b59fe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ea53733027bc38760fe692357a184c1e') in 0.022780 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet FX 2A_7.png
+  artifactKey: Guid(0f365c08c006394449b7db49695135a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet FX 2A_7.png using Guid(0f365c08c006394449b7db49695135a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '717c0c02555899fb2ad30eadd7fd97c0') in 0.018659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet All 2A_6.png
+  artifactKey: Guid(e235c2a5bef700046a58f8981f554891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet All 2A_6.png using Guid(e235c2a5bef700046a58f8981f554891) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b7bc29dd009b80b0a3af218716d049fc') in 0.033615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet All 2A_8.png
+  artifactKey: Guid(aa02e31abfb0ffb4a8d47951015ee963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet All 2A_8.png using Guid(aa02e31abfb0ffb4a8d47951015ee963) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'eb1ccadc2d45f1a4b04f070588ebc78a') in 0.022296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet FX 2A_8.png
+  artifactKey: Guid(c1f2aba049d515347b32c88b702c15b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/SlashFX SpriteSheet FX 2A_8.png using Guid(c1f2aba049d515347b32c88b702c15b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e67996b19d090fc996118c3c930f6ef0') in 0.020863 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.416379 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/2. GameEndeavor Demo.rar
+  artifactKey: Guid(82229139cd0e22a41b4cd8d2827953a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/GameEndeavor/2. GameEndeavor Demo.rar using Guid(82229139cd0e22a41b4cd8d2827953a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '039ce948ff43dfd2df3d0d41f58dea07') in 0.003910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.572137 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3A_1.png
+  artifactKey: Guid(f4e05bf068c6f3345ac2122acdb3405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3A_1.png using Guid(f4e05bf068c6f3345ac2122acdb3405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9db24b0db53add3a5a58023f374b7030') in 0.017656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3D_3.png
+  artifactKey: Guid(a09ee3b1e73868848b8e44c2446fda2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3D_3.png using Guid(a09ee3b1e73868848b8e44c2446fda2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '80919d27a7cfb844bc2d57adc7244db0') in 0.012689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3E_3.png
+  artifactKey: Guid(1491fcdaec327224ab443aa4c7b29f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3E_3.png using Guid(1491fcdaec327224ab443aa4c7b29f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9cd9fac8fe78b798b4abeef877af569c') in 0.038966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3B_3.png
+  artifactKey: Guid(70f15d723f6088f498075746473495b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3B_3.png using Guid(70f15d723f6088f498075746473495b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '75c8011859e2c590e22fdc04bc768712') in 0.026257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 34.337561 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3A_1.png
+  artifactKey: Guid(f4e05bf068c6f3345ac2122acdb3405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX FREE v1.2 (7.13.23)/Vernal Edge/SlashFX SpriteSheet FX 3A_1.png using Guid(f4e05bf068c6f3345ac2122acdb3405d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c1aa12ba74184a23123d8b977b4ae500') in 0.006907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 44.856912 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside
+  artifactKey: Guid(c5734e58d43f8e74485a4a500460afa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside using Guid(c5734e58d43f8e74485a4a500460afa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e42010157895dc2f50ce3384a0c46f66') in 0.002060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.070319 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_1.png
+  artifactKey: Guid(320ee7311fce55547907cb390c88997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_1.png using Guid(320ee7311fce55547907cb390c88997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '562929bedc70064d37b9e489892a7670') in 0.013219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.015508 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_4.png
+  artifactKey: Guid(1507e3e2d196af94e9021c39c7eef837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_4.png using Guid(1507e3e2d196af94e9021c39c7eef837) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8ff4b938e6f35ade7f7724de2d33d86a') in 0.015694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.010618 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_9.png
+  artifactKey: Guid(3f1145106f5a1354da5c1c2b5a43c6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_9.png using Guid(3f1145106f5a1354da5c1c2b5a43c6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '01614744624c5845e37113cbfe02723c') in 0.014931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_2.png
+  artifactKey: Guid(65e4d06402b94d3448f1f39211c14cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_2.png using Guid(65e4d06402b94d3448f1f39211c14cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cbd3c7df3863b7df240c1b69429e09a9') in 0.018768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_4.png
+  artifactKey: Guid(83c15e1f6154c1f4689616897816aad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_4.png using Guid(83c15e1f6154c1f4689616897816aad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '37b6dd5e1ad37186ce4059af6b268114') in 0.021496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_1.png
+  artifactKey: Guid(3755b6742ffdb5e488a5f1cc2f2eec99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_1.png using Guid(3755b6742ffdb5e488a5f1cc2f2eec99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f2facb25148176c4f52ebec9731a07cd') in 0.014783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_6.png
+  artifactKey: Guid(41bc69b5d05ae5148b9ea56ebd4f0e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_6.png using Guid(41bc69b5d05ae5148b9ea56ebd4f0e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f133bfd7c147a590c5ec35627830b29c') in 0.013989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_6.png
+  artifactKey: Guid(509a84e5a1363674eb482083acd1089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_6.png using Guid(509a84e5a1363674eb482083acd1089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '503d381c2dcaf0bed9c4c474c14af3f5') in 0.021557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_3.png
+  artifactKey: Guid(150b7d8db173a264d8f169b16bca1dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_3.png using Guid(150b7d8db173a264d8f169b16bca1dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a3ad5dd653040c608a1cf4d0e32238e6') in 0.019879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_9.png
+  artifactKey: Guid(cd88c3e25b1a0564091002bac6c0c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1A_9.png using Guid(cd88c3e25b1a0564091002bac6c0c59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6dcb4ffe2b4c95d4f0d2b4b799c617da') in 0.016256 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_3.png
+  artifactKey: Guid(36ea40340adb9574c91bc07b670390c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/Slash FX SpriteSheet 1A_3.png using Guid(36ea40340adb9574c91bc07b670390c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd6d1ab5ce5f42b18af8607c369dcf212') in 0.019337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.017873 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1C_3.png
+  artifactKey: Guid(7abd5bde53eac8a4bbb444a2f340f16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1C_3.png using Guid(7abd5bde53eac8a4bbb444a2f340f16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a1a8ed11b0a5bc885c2cbbd257356803') in 0.026430 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1C_5.png
+  artifactKey: Guid(8f9855836ee0890458b65871e85f59cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1C_5.png using Guid(8f9855836ee0890458b65871e85f59cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ab095c45ca610a0fcdb7eabb159f4c75') in 0.014512 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1C_6.png
+  artifactKey: Guid(e50c66504ba94784e9819918dfdd840b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Graphics/VFX/SlashFX v1.2 (7.24.23)/1. Sunnyside/SlashFX SpriteSheet FX 1C_6.png using Guid(e50c66504ba94784e9819918dfdd840b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '284ef21563f94027623ec6794dd3fc31') in 0.013536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

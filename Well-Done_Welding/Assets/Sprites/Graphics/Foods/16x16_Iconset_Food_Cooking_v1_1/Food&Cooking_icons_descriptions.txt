@@ -1,0 +1,112 @@
+Food Iconset:
+
+001 –	Small Chicken Egg	The most commonly consumed eggs are chicken eggs. Other poultry eggs including those of duck and quail also are eaten. 
+002 –	Small Bird Egg		A small egg of a wild bird.	
+003 –	Baguette		The Baguette is a long, thin loaf of French bread that is commonly made from basic lean dough.
+004 –	Butter			Butter is a dairy product made from the fat and protein components of milk or cream.
+005 –	Raw Bird Meat S		A raw chop from a small bird.
+006 –	Raw Bird Meat M		A raw chop from a medium sized bird.
+007 –	Raw Bird Meat L		A raw chop from a big sized bird.
+008 –	Raw Pork/Beef S		A raw small sized steak
+009 –	Raw Pork/Beef M		A raw medium sized steak
+010 –	Raw Pork/Beef L		A raw big sized steak
+
+011 –	Chanterelle		Chanterelle is a common name for several fungi, which are among the most popular wild edible mmushrooms. They are orange, yellow or white, meaty and funnel-shaped.
+012 –	Red Cracking Boletus	A small, edible, wild mushroom with tubes and pores.
+013 –	White Mushrooms		An edible mushroom, native to the grasslands of Europe and North America.
+014 –	Truffle			The fruiting body of a subterranean fungus, a delicacy.
+015 –	Cooked Bird Meat S	Acooked chop from a small bird.
+016 –	Cooked Bird Meat M	A cooked chop from a medium sized bird.
+017 –	Cooked Bird Meat L	A cooked chop from a big sized bird.
+018 –	Cooked Pork/Beef S	A cooked small sized steak
+019 –	Cooked Pork/Beef M	A cooked medium sized steak
+020 –	Cooked Pork/Beef L	A cooked big sized steak
+
+021 –	Green Apple		An edible fruit, produced by an apple tree. Cultivated worldwide.
+022 –	Pomegranate		A fruit-bearing deciduous shrub, which originate din the region of Iran and has been cultivated since ancient times.
+023 –	Sweet Pepper		Also known as Bell-Pepper is a fruit native to Mexico, Central America and northern South America.	
+024 –	Mini Chili Pepper	Chili Peppers are members of the nightshade family of plant and used in many cultures to spice food. They originated in Mexico and spread from there across the world.
+025 –	Cucumber		A widely cultivated plant in the gourd family, originylly from South Asia.
+026 –	Avocado			A Tree-Fruit which is cultivated in tropical and mediterranean climates throughout the world.
+027 –	Pineapple		The fruit of a tropical plant indigenous to South America.		
+028 –	Dates			The Fruit of Date Palms, indigenous to the Middle East.
+029 –	Whortleberry		A blue colored berry from a shrub, commonly known as blueberry.
+030 –	Blackberry		An edible fruit, native to Europe, Northwestern Africa,  Temperate Western and Central Asia and North and South America.
+
+031 –	Cobnut			The fruit of a European hazel (Corylus avellana grandis) 
+032 –	Peanut			A nut mainly grown for it‘s edible seeds. Usually growing in tropical and subtropical climate.
+033 –	Kashew Nuts		The fruit of the kashew tree, often considered as a nut.
+034 –	Horse Chestnut		A nut with a very high amount of vitamin C.
+035 –	Pistachio		A tree fruit, which is consumed as food.
+036 –	Empty Plate		An empty plate, ready for cooking.
+037 –	Empty Bowl		An empty bowl, ready for cooking.
+038 –	Tea Mug			An aromatic beverage, prepared by pouring hot water over leaves.
+039 –	Coffee Cup		A brewed drink prepared from roasted coffee beans.
+040 –	Latte Machiatto		A coffee beverage, which name means stained milk.
+
+041 –	Ice Cream		A sweetened frozen food tpically eaten as snack or dessert.
+042 –	Pudding			A type of food usually eaten as dessert, or part of the main meal.
+043 –	Muffin			An individual-sized baked product, a lso known as cupcake.
+044 –	Apple Pie		A pie in which the principal filling ingredient is apple.
+045 –	Cherry Pie		A pie in which the principal filling ingredient is cherry.
+046 –	Sacher Cake		A chocolate cake of Austrian origin. One of the most famous Viennese culinary specialties.
+047 –	Chocolate Cookies	A drop cookie, that originated in the United States and features chokolate chips.
+048 –	Chocolate		A sweet made from milk, sugar and cacao seeds, usually fille din the shape of a bar.
+049 –	Donut			A type of fried dough confection or dessert food.
+050 –	Chewing Gum		A soft, cohesive substance designed to be chewed without swallowed.
+
+051 –	Boiled Egg		Egs, usually from a chicken, boiled in hot water with their shells unbroken.	
+052 –	Fried Egg		A cooked dish made from one or more eggs, which are removed from their shells and placed into a frying pan.
+053 –	Scrambled Eggs		A dish made from eggs, stirred or beaten together in a pan while being gently heated.			
+054 –	Omelet			A dish made from beaten eggs fried with butter or oil in a frying pan.
+055 –	Salad			A dish consisting out of a mixture of small pieces of food and salad leaves
+056 –	Mozarella		A salad  dish made from southern Italian cheese and tomatoes, with oil and vinegar.
+057 –	Sandwich		A food typically consisting out of vegetables, sliced cheese or meat, placed on or between slices of bread.
+058 –	Taco			A traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling.	
+059 –	Pierogi			Filled Dumplings made by wrapping unleavened dough around a savory or sweet filling.
+060 –	Rice Pot		A pot fille dwith cooked hot rice.
+
+061 –	Sorrel Soup		A soup made from water, sorrel leaves and salt. Varieties of the soup include spinach garden oache, chard, nettle and occassionally dandelion.		
+062 –	Pumpkin Soup		A thick soup made from a purée of pumpkin.
+063 –	Tomato Soup		A soup made with tomatoes as the primary ingredient.
+064 –	Noodle Soup		A soup with noodles served in a light broth.
+065 –	Mushroom Soup		A simple type of soup where a basic roux is thinned with cream or milk and then mushroom are added.
+066 –	Miso Soup		Miso soup is a traditional Japanese soy-based soup made from a stock called dashi, miso paste, and various additional ingredients such as seaweed or tofu. 
+067 –	Onigiri			A japanese food made from white rice formed into triangular shapes.
+068 –	Sushi			A japanese food made from medium grain rice and a variety of of other ingredients.
+069 –	Nigiri Sushi		Nigiri Sushi are small, with a hand-shaped rice canapés, topped with freshly cooked, marinated raw fish or various seafood. 
+070 –	Shrimps on Rice	Cooked shrimps served with rice.
+
+071 –	Crab in Oyster Sauce	A Chinese seafood dish of crab served in savoury oyster sauce.	
+072 –	Sashimi			Sashimi is a Japanese delicacy consisting of thinly sliced raw fish or shellfish (or even meat) served with soy sauce and other ingredients such as wasabi or ginger paste. 
+073 –	Tendon			This classic Japanese one-bowl meal consists of battered and deep-fried seafood or vegetables laid over freshly steamed rice. 
+074 –	Ramen 			A noodle soup which appeared first in Japan in 1910. Two most famous types of ramen are ramen of Kyushu, prepared with a boiled pork bone broth called tonkotsu, and ramen of Hokkaido, made with a traditional seasoning called red miso. 
+075 –	Gyoza			The famous Japanese gyoza are crescent-shaped dumplings that have originated from the traditional Chinese jiaozi dumplings. 
+076 –	Dango			Dango is a traditional Japanese sweet treat, presented as rice flour and sugar dumplings skewered on a bamboo stick. 
+077 –	Sweet and Sour Pork with Rice	A dish made from fried thinly sliced pork, rice and a sweet-sour sauce. 
+078 –	Teriyaki -  The word teriyaki is a combination of two words: teri, meaning luster, and yaki, meaning to grill or broil. It is a Japanese cooking technique in which the ingredients are broiled, roasted, or grilled after they have been marinated in teriyaki sauce.
+
+079 –	Meat Skewer		Pieces of meat on a little stick, cooked over an open fire.
+080 –	Shish Kebab		A popular meal of skewered and grilled cubes of meat.
+
+081 –	Popcorn			A variety of corn kernel which expands and puffs up.
+082 –	Hamburger		A sandwich consisting of one or more cooked pattes of ground meat placed inside a sliced bread.
+083 –	French Fries		A common food made from sliced and salted potatoes.
+084 –	Pizza			A savory dish of Italian origin consisting of a flattened based topped with tomatoes, cheese and often other ingredients.
+085 –	Spagetthi Bolognese	Long noodles served with a meat-based sauce. Italian cuisine.
+086 –	Pasta Bowl		An Italian type of food, typically made form unleavened dough and served usually with sauce.
+087 –	Toast			A dish that uses toast bread as main ingredient.
+088 –	Toast Hawaii		A Toast Dish with ham, cheese and pineapple.
+089 –	Barbecue Sausage	A barbecued sausge, usually served with mustard.
+090 –	Chicken Nuggets	A product made from chicken meat, which is breaded and then baked.
+
+091 –	Schnitzel		A thin slice of meat fried in fat.
+092 –	Steak			Meat sliced across the muscle fibers, potentially including a bone. Usually grilled or.
+093 –	Fish and Chips		This Dish consists out of a freshly fried, hot, white fish fillet and large sliced fried potatoes. It‘s a British national dish.
+094 –	Steckerlfisch 		a fish on a stick is a staple fish specialty in beer gardens and at folk fests and fairs throughout Germany, especially in the regions of Bavaria and Franconia. 
+095 –	Tiradito		Tiradito is a traditional Peruvian dish consisting of thinly sliced, well-chilled raw fish, chopped vegetables, and coriander, all drizzled with lemon and lime juices right before consumption, so the fish stays raw 
+096 –	Asam Pedas 		The main characteristic of this popular Malaysian dish is the combination of tamarind juice and chili paste, giving the dish its signature sour and spicy flavors. Even though it appears in numerous varieties throughout the country, it is traditionally prepared with okra, tomatoes, fish, and various seasonings, all cooked in a zesty, rich broth. 
+097 –	Meuniere 		A French cooking technique in which a whole fish or fish fillets are lightly dusted in flour and then sautéed in butter. The most common dish prepared with this technique is called sole meunière. 
+098 –	Smoked Salmon		Fileted Salmon, considered a delicacy due to it’s relatively high price.
+099 –	Burnt Food		Food which got burned to crums during the cooking process.
+100 –	Dubious Food		Food of dubious origin, taste it only if you are brave enough.
