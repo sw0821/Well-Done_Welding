@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9743a50feedea474dbef99517d3e30eb, type: 3}
+  m_Name: TextAnimatorSettings
+  m_EditorClassIdentifier: 
+  behaviors:
+    defaultDatabase: {fileID: 11400000, guid: b3ce214de8ded394694015dcc9ddc188, type: 2}
+    enabled: 1
+    openingSymbol: 60
+    closingSymbol: 62
+  appearances:
+    defaultDatabase: {fileID: 11400000, guid: 7693e899e84903a4bbe7eda0476b0490, type: 2}
+    enabled: 1
+    openingSymbol: 123
+    closingSymbol: 125
+  actions:
+    defaultDatabase: {fileID: 11400000, guid: b1c1cf394e381c04f955a1f16bca8e3f, type: 2}
+    enabled: 1
+    openingSymbol: 60
+    closingSymbol: 62
+  defaultStyleSheet: {fileID: 11400000, guid: 782d8a8f58c21b94591f92656b6baf42, type: 2}
