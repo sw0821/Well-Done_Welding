@@ -417,8 +417,8 @@
 "Assets/Box/Plugins/Demigiant/DOTweenPro/DOTweenProShortcuts.cs"
 "Assets/Box/Plugins/Demigiant/DOTweenPro/DOTweenTextMeshPro.cs"
 "Assets/Box/Plugins/Demigiant/DOTweenPro/DOTweenTk2d.cs"
-"Assets/Code/ButtonEvents.cs"
 "Assets/Code/LoadingController.cs"
+"Assets/Code/MainController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
